@@ -17,4 +17,6 @@ collections:
     output: true
     permalink: /roles/:path/
 
+baseurl: /hackathon
+
 
