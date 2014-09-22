@@ -1,0 +1,20 @@
+safe: false
+lsi: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  roles:
+    output: true
+    permalink: /roles/:path/
+
+

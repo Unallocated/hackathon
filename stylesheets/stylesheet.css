@@ -1,3 +1,7 @@
+/*
+
+*/
+
 body {
   margin: 0;
   padding: 0;
@@ -12,7 +16,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 960px;
   margin: 0 auto;
 }
 
@@ -38,28 +42,36 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #eba713;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
 
+footer {
+    background: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    border-top: 1px dashed #eba713;
+    padding: 20px 0;
+}
+
+#logo {
+  float: left;
+  margin-top: 15px;
+  margin-right: 25px;
+}
+
 header h1 {
-  font-size: 30px;
+  font-size: 40px;
   line-height: 1.5;
-  margin: 0 0 0 -40px;
+  margin: 0;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  color: #eba713;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
-}
-
-header h1:before {
-  content: "./ ";
-  font-size: 24px;
 }
 
 header h2 {
@@ -88,7 +100,7 @@ section img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  color: #eba713;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -244,4 +256,94 @@ a {
 
 .cf {
   zoom:1;
+}
+
+#main-menu {
+    font-family:'Trebuchet MS', Helvetica, sans-serif;
+    font-size: 1.2em;
+}
+
+#main-menu ul.menu {
+    margin:0;
+    padding: 0;
+}
+
+#main-menu .menu li {
+    display: inline;
+}
+
+#main-menu ul.menu li:before {
+    content: none;
+}
+
+#main-menu .menu li a {
+    text-decoration: none;
+    color: #eba713;
+    padding-right: 25px;
+}
+
+#main-menu .menu li a:hover {
+    color: #ff4500;
+}
+
+.project-meta {
+    background: #222222;
+    padding: 20px;
+}
+
+.project-meta .label {
+    float: left;
+    color: #eba713;
+    width: 225px;
+}
+
+.git-info {
+    float: right;
+}
+
+.logo-inverted {
+
+    display: block;
+    height: 120px;
+    width: 200px;
+    background: transparent url("../images/logo-inverted.png") no-repeat center top;
+}
+
+footer .social-menu {
+    float: right;
+}
+
+footer .social-menu ul {
+    padding-left: 0
+}
+
+footer .social-menu ul li {
+    margin-bottom: 5px;
+}
+footer .social-menu ul li:before {
+    content: none;
+}
+
+footer .social-menu ul li a {
+    display: block;
+    padding-left: 50px;
+    text-decoration: none;
+    color: #FFFFFF;
+    line-height: 32px;
+}
+
+footer .social-menu ul li a:hover {
+    text-decoration: underline;
+}
+
+.meetup-link {
+    background: transparent url("../images/meetup.png") no-repeat left center;
+}
+
+.twitter-link {
+    background: transparent url("../images/twitter.png") no-repeat left center;
+}
+
+.facebook-link {
+    background: transparent url("../images/facebook.png") no-repeat left center;
 }
