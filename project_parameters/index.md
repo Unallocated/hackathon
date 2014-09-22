@@ -13,8 +13,8 @@ curiosities of making the project work, and working to build interoperable and e
 software.
 
 ## APIs Everywhere
-We want all of our systems to be able to talk to each other. Maybe we'll find a use for the [traffic light](/projects/traffic_light)
-to talk to the [prolite sign](/projects/prolite) - they should have easy-to-use externally accessible
+We want all of our systems to be able to talk to each other. Maybe we'll find a use for the [traffic light]({{ site.baseurl }}/projects/traffic_light)
+to talk to the [prolite sign]({{ site.baseurl }}/projects/prolite) - they should have easy-to-use externally accessible
 (within Unallocated Space) APIs. These should be extensible, respect the appropriate industry standards
 specification (i.e. for web development, RESTful API standards should be applied).
 
@@ -61,7 +61,7 @@ Each project will require a project lead. This is somebody who can define the vi
 the project. The project lead will also coordinate and make sure that all parts of the team are working
 together. If there's a project that's been listed that doesn't have a project lead, or if you would like
 to suggest a project, use the contact form to make these arrangements. [Learn more about becoming a project
-lead.](/roles/projectlead)
+lead.]({{ site.baseurl }}/roles/projectlead)
 
 ## Github Repository
 We're working to open source all of our core services code. We will be distributing these over Github
