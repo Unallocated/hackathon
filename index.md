@@ -19,7 +19,7 @@ We've got a LOT of projects that need help. Click on a project to learn more abo
 Here's a list to start, check back often as updates will be posted here. Languages will be on a per-project basis.
 
 <ul>
-{% for project in site.projects %}<li><a href="{{ project.url }}">{{ project.title }}</a></li>{% endfor %}
+{% for project in site.projects %}<li><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></li>{% endfor %}
 </ul>
 
 ## Not Just Developers
@@ -29,7 +29,7 @@ how to code? You probably have a skillset that we need anyway.
 We need:
 
 <ul>
-{% for role in site.roles %}<li><a href="{{ role.url }}">{{ role.title }}</a></li>{% endfor %}
+{% for role in site.roles %}<li><a href="{{ site.baseurl }}{{ role.url }}">{{ role.title }}</a></li>{% endfor %}
 <li><a href="https://www.youtube.com/watch?v=RYMH3qrHFEM">Developers</a></li>
 </ul>
 
@@ -107,7 +107,7 @@ We will be adhering to [recommended Git workflows](https://guides.github.com/int
 We will be doing so a little less than strictly, and at the discretion of the Project Lead for that
 project.
 
-We will be hosting a Git workshop before this event to teach the basics of Git, and how to work within a
+We will be hosting a [Git workshop]({{ site.baseurl }}/gitworkshop) before this event to teach the basics of Git, and how to work within a
 Git based workflow.
 
 ## Well, I'm Really Not Very Good...
