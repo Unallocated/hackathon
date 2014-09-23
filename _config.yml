@@ -1,5 +1,10 @@
 safe: false
 lsi: true
+baseurl: /hackathon
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink"]
 
 defaults:
   -
@@ -17,6 +22,5 @@ collections:
     output: true
     permalink: /roles/:path/
 
-baseurl: /hackathon
 
 

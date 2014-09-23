@@ -347,3 +347,17 @@ footer .social-menu ul li a:hover {
 .facebook-link {
     background: transparent url("../images/facebook.png") no-repeat left center;
 }
+
+#gmap {
+    float: right;
+}
+
+.gm-style-iw {
+    width: 130px;
+    color: #000000;
+}
+
+#schedule table tr td:first-child {
+    width: 175px;
+    color: #eba713;
+}

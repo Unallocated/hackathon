@@ -120,4 +120,13 @@ You do not have to be here for the whole 24-hour period. There are some of us th
 in when you can, and help with what you can. There will also be a lot of preparation work before hand that we will
 need help with as well. We'll take what we can get.
 
+## Registration
+If you know you'll be coming to this event and would like to take part, it would really help us out a lot if you
+[registered for your project]({{ site.baseurl }}/register). It only takes a second and this helps us know who will
+be attending and what resources are available for each project.
+
+## Okay, I'm In. Where's It At?
+{% include location.html %}
+
+
 
