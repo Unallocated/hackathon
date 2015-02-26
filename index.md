@@ -1,18 +1,20 @@
 ---
 layout: home
-title: Unallocated Space Hackathon0
+title: Unallocated Space Hackathon1
 ---
 
-## Halp!! We Need Halp!!!
+## Oh no. Not this nonsense again...
+Yup. It's back. More pizza. More code. More hardware hacking. More sleep deprivation. More frustration from beating our
+heads into the same stupid problems again and again. More Wompster.
+
+Oh yeah. This is a thing.
+
 Here at Unallocated Space have long experienced the woes of an outdated, underdeveloped, underdocumented, and
 highly unstable core services infrastructure. Through inspiration that can only be described as drunken revelry, our
 forefathers brought forth these miraculous technologies in the true spirit of hackerdom.
 
-Now it's time for Round Two...
-
-Unallocated Space will be refactoring <span class="highlight">ALL of our core services codebases. Gear up for an old school, red eyed,
-energy drink fueled, hardcore, 24-hour hackathon. We are going to write all of the awesome code that we've been talking about for years.
-Sodas, pizza, terrible music, awful movies, and code, code, code, code, code!!
+At the last hackathon we were able to make absolutely *MASSIVE* progress on all fronts. We're following up on the
+success of the last event with *ANOTHER* old school, red eyed, energy drink fueled, hardcore, 24-hour hackathon.
 
 ## So Much Code, It'll Make You Puke
 We've got a LOT of projects that need help. Click on a project to learn more about it and to find out who's running it.

@@ -42,7 +42,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed #eba713;
+  border-bottom: 1px dashed #19FF19;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -50,7 +50,7 @@ header {
 footer {
     background: rgba(0, 0, 0, 0.1);
     width: 100%;
-    border-top: 1px dashed #eba713;
+    border-top: 1px dashed #19FF19;
     padding: 20px 0;
 }
 
@@ -66,7 +66,7 @@ header h1 {
   margin: 0;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #eba713;
+  color: #19FF19;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -100,7 +100,7 @@ section img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #eba713;
+  color: #19FF19;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -278,7 +278,7 @@ a {
 
 #main-menu .menu li a {
     text-decoration: none;
-    color: #eba713;
+    color: #19FF19;
     padding-right: 25px;
 }
 
@@ -293,7 +293,7 @@ a {
 
 .project-meta .label {
     float: left;
-    color: #eba713;
+    color: #19FF19;
     width: 225px;
 }
 
@@ -359,5 +359,5 @@ footer .social-menu ul li a:hover {
 
 #schedule table tr td:first-child {
     width: 175px;
-    color: #eba713;
+    color: #19FF19;
 }
