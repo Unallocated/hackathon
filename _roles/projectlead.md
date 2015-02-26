@@ -29,9 +29,6 @@ A project lead may only lead one project at a time.
 * Set up and manage all necessary testing accounts. i.e. for a twitter integration, a test twitter account should be set up and credentials distributed to the team.
 * Understand project requirements and translate them as appropriate to PMs and developers.
 
-## Deadlines
-* All requests for project leadership must be made before Oct 18. Projects that remain unclaimed at this point
-will be removed from the list.
 
 
 

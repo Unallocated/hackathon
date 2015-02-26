@@ -9,7 +9,7 @@ heads into the same stupid problems again and again. More Wompster.
 
 Oh yeah. This is a thing.
 
-Here at Unallocated Space have long experienced the woes of an outdated, underdeveloped, underdocumented, and
+Here at Unallocated Space we have long experienced the woes of an outdated, underdeveloped, underdocumented, and
 highly unstable core services infrastructure. Through inspiration that can only be described as drunken revelry, our
 forefathers brought forth these miraculous technologies in the true spirit of hackerdom.
 
@@ -40,7 +40,7 @@ Membership is not required to participate.
 
 Come on down and jam out with us. If you like what
 you see and you'd like to be a part of our community, we have [memberships available starting at
-$25/month](http://www.unallocatedspace.org/uas/dues). We also accept one time donations.
+$25/month](http://www.unallocatedspace.org/uas/donations-and-dues/). We also accept one time donations.
 
 No donation is required for this event. All "staff" of Unallocated Space are volunteering members -
 all donations go towards keeping the lights on and keeping this resource available to the community.
@@ -76,8 +76,15 @@ You should bring any food or drinks that you'd like for yourself and any food or
 donate to the other participants.
 
 #### Alcohol
-You may bring your own beer and wine. No hard liquor is permitted. Underage drinking and drunk
-driving will be dealt with severely and reported to the appropriate authorities.
+We will be making an exception to our hard liquor rules for this event. You may bring your own beer, wine, liquor, and
+and mixers.
+
+Underage drinking and drunk driving will be dealt with severely and reported to the appropriate authorities. Please do
+not test this.
+
+While we will be allowing liquor during the hackathon, please exercise good judgement. We reserve the right to revoke
+this privilege for specific persons, for whatever reason. This is only allowed because there were no incidents last
+time. Remember that this event should focus on the development tasks, and not on the drinking. Let's keep it fun.
 
 #### Comfortable Clothes
 Wear clothes that you can sit around in for long term and that you're comfortable working in. PJs are okay, but nothing

@@ -3,7 +3,7 @@ layout: schedule
 title: Schedule
 ---
 
-## Saturday, November 8th, 2014
+## Saturday, March 7th, 2015
 
 Time                | Activity
 ------------------- | -------------
@@ -12,7 +12,7 @@ Time                | Activity
 3:00pm - 3:30pm     | **Hackathon Kickoff**<br />Just a quick word on expectations, reiterate our mission and laying the ground rules
 3:30pm - 12:00am    | HACKHACKHACKHACKHACK!!!!!
 
-## Sunday, November 9th, 2014
+## Sunday, March 8th, 2015
 Time                | Activity
 ------------------- | ------------
 12:00am - 3:30pm    | HACKHACKHACKHACKHACK!!!!!
