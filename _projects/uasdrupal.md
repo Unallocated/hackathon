@@ -15,7 +15,7 @@ are to facilitate community collaboration, showcase projects, allow members to f
 based on skillsets and expertise, and provide an avenue for publication of news and events
 for Unallocated Space.
 
-## Hackathon1 Update
+## Hackathon0 Update
 In the last hackathon we were able to
 
  * Implement a full SSL/TLS certificate (Thanks Socket~!!)
