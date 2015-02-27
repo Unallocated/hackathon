@@ -77,7 +77,7 @@ donate to the other participants.
 
 #### Alcohol
 We will be making an exception to our hard liquor rules for this event. You may bring your own beer, wine, liquor, and
-and mixers.
+mixers.
 
 Underage drinking and drunk driving will be dealt with severely and reported to the appropriate authorities. Please do
 not test this.
