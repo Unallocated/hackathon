@@ -7,10 +7,14 @@ project_lead: s00ner
 project_languages: Ruby
 project_other_techs: RESTful API.
 ---
-This is a LED sign that sits in the area above the restrooms in the hackerspace that is highly visible. Currently, the sign can only be updated via IRC using the IRC bot and the code to do so is part of the IRC bot.
 
-The primary goal is to produce a service with a documented API for updating the sign. This API can be used by the IRC bot and by any other services running in the hackerspace.
+This is a LED sign that sits in the area above the restrooms in the hackerspace that is highly visible. The sign is not currently operational.
 
-During the hackathon, the goals for this project are:
- * Design, define, and document a RESTful API for the sign service
- * Write code to implement the API
+Code has been written that can interface with the sign and can update it with multiple messages. The primary
+goal at the hackathon will be to write a REST api to interface with the existing code so that the sign can be
+operational and put into use. Secondary goals can be completed if time allows. Secondary goals are:
+
+ * Adding features
+ * Improving code quality
+ * Deamonizing code to run as a service
+ * Adding audible notification of sign update
