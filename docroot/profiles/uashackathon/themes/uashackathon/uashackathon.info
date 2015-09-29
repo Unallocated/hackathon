@@ -1,0 +1,22 @@
+name = UAS Hackathon
+description = Theme for Unallocated Space hackathon
+version = 7.x-1.0
+core = 7.x
+
+stylesheets[all][] = css/layout.css
+
+scripts[] = scripts/foutbgone.js
+
+regions[user_bar_first] = User bar first
+regions[user_bar_second] = User bar second
+regions[branding] = Branding
+regions[menu] = Menu
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+regions[header_first] = Header first
+regions[header_second] = Header second
+regions[header_first] = Header first
+regions[header_second] = Header second
+regions[content] = Content
+
+features[] = favicon

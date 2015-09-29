@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * Implements hook_install().
+ */
+function uashackathon_install() {
+
+  // Use existing drupal mechanisms installed with the standard profile.
+  include_once DRUPAL_ROOT . '/profiles/standard/standard.install';
+  standard_install();
+
+  // jQuery Update settings
+  variable_set('jquery_update_jquery_version', '1.7');
+  variable_set('jquery_update_jquery_cdn', 'google');
+}

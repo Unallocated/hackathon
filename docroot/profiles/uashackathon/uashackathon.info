@@ -1,0 +1,43 @@
+name = UAS Hackathon
+description = Build profile for Unallocated Space Hackathon website
+core = 7.x
+
+; Core
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = shortcut
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+; Contrib
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+
+dependencies[] = boxes
+
+dependencies[] = context
+
+dependencies[] = prefixfree
+dependencies[] = views
+
+
+
+; Custom
+dependencies[] = uashack_maintenance
+
+; Development modules (remove before final version)
+dependencies[] = views_ui
+dependencies[] = context_ui
